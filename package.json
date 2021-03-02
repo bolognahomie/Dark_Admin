@@ -1,0 +1,21 @@
+{
+  "name": "Momentix_Admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "bootstrap.native": "^3.0.14-f",
+    "choices.js": "^9.0.1",
+    "cleave.js": "^1.6.0",
+    "feather-icons": "^4.28.0",
+    "flatpickr": "^4.6.9",
+    "open-iconic": "^1.1.1"
+  }
+}
